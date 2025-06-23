@@ -1,0 +1,6 @@
+com/cyberark/conjur/ConjurApp.class
+com/cyberark/conjur/service/DatabaseService.class
+com/cyberark/conjur/config/SecretConfig.class
+com/cyberark/conjur/secrets/SecretProvider.class
+com/cyberark/conjur/secrets/ConjurSecretProvider.class
+com/cyberark/conjur/controller/TestController.class
